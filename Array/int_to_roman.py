@@ -21,4 +21,4 @@ def int_to_roman(num):
    
     return roman_numeral
 # Example usage
-print(int_to_roman(1958))  # Output: MCMLXXXVII 
+print(int_to_roman(1987))  # Output: MCMLXXXVII 
